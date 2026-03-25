@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Rafael Alexander Sebastiá Turpin 👋</h1>
-  <p><strong>Estudiante / Desarrollador de Software </strong></p>
+  <p><strong>Estudiante / Desarrollador de Software Fullstack </strong></p>
 </div>
 
 <hr>
