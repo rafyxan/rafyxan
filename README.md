@@ -87,10 +87,10 @@ He aplicado mis conocimientos técnicos en entornos reales de desarrollo web:
 ---
 
 ## 🌐 Idiomas
-- 🇪🇸 **Castellano:** Nativo.
-- 🇬🇧 **Inglés:** Materno.
-- 🥘 **Valenciano:** Medio.
-- 🇳🇴 **Noruego:** Básico.
+- **Castellano:** Nativo
+- **Inglés:** Materno
+- **Valenciano:** Nivel Medio
+- **Noruego:** Nivel Básico (1 año de estudios en Noruega)
 
 ---
 
