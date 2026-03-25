@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Rafael Alexander Sebastiá Turpin 👋</h1>
-  <p><strong>Estudiante / Desarrollador de Software | Apasionado por la tecnología</strong></p>
+  <p><strong>Estudiante / Desarrollador de Software </strong></p>
 </div>
 
 <hr>
