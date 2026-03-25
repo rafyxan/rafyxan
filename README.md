@@ -21,9 +21,7 @@ Soy un profesional apasionado por la informática y la programación, con un fue
 ### 🏨 Casa de Gaia
 <p>Desarrollo y diseño de sitio web. Este proyecto es un ejemplo de la aplicación práctica de mis conocimientos en diseño web y gestión de contenidos, similar a mi experiencia previa en la creación de portales avanzados.</p>
 
-<a href="https://casadegaia.es/" target="_blank">
-  <img src="https://img.shields.io/badge/Ver%20Sitio%20Web-casadegaia.es-blue?style=for-the-badge&logo=wordpress&logoColor=white&color=21759B" alt="Enlace a Casa de Gaia" />
-</a>
+🔗 **[https://casadegaia.es/](https://casadegaia.es/)**
 
 </div>
 
@@ -43,6 +41,7 @@ Soy un profesional apasionado por la informática y la programación, con un fue
 
 ### Frameworks & Entornos
 <p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
