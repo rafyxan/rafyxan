@@ -6,7 +6,7 @@
 <hr>
 
 ## 👤 Sobre Mí
-Soy un profesional apasionado por la informática y la programación, con un fuerte deseo de aprender y crecer en el sector tecnológico. Me defino como una persona trabajadora, proactiva y orientada a resultados, que disfruta enfrentando nuevos retos. Mi experiencia académica y mi año de estudios en Noruega me han proporcionado una visión global y habilidades adaptativas. Además, soy una persona atlética, lo que refleja mi disciplina y dedicación.
+Soy un profesional apasionado por la informática y la programación, con un fuerte deseo de aprender y crecer en el sector tecnológico. Me defino como una persona trabajadora, proactiva y orientada a resultados, que disfruta enfrentando nuevos retos. Mi experiencia académica y mi año de estudios en Noruega me han proporcionado una visión global y habilidades adaptativas.
 
 - 📍 Residente en **Alicante, España**.
 - 🚗 Carnet de conducir A y B, con vehículo propio.
